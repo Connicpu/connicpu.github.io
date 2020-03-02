@@ -14,17 +14,19 @@ Download a copy of my resume [here](resources/Resume_ConnieHilarides.pdf)
 
 ### HoloTowers
 
--
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rqgNteujCW8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Bad Day to be a Pirate
+### Pirate Hunt
 
--
+<img alt="Pirate Hunt Gameplay Screenshot" src="images/pirate_gameplay1.png" style="width: 70%; max-width 800px;"/>
+
+[Download the game here](resources/Pirate_Setup.exe)
 
 ### Roguebot
 
 2D turn-based rogue-like dungeon crawler
 
-<img alt="Gameplay Screenshot" src="images/roguebot_gameplay1.jpg" style="width: 70%; max-width 800px;"/>
+<img alt="Roguebot Gameplay Screenshot" src="images/roguebot_gameplay1.jpg" style="width: 70%; max-width 800px;"/>
 
 This game was built as part of a multi-semester team project at DigiPen,
 from Sep 2014 - April 2015.
