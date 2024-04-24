@@ -1,8 +1,10 @@
-# Resume
+# Connie Tatum Hilarides | Software Engineer
+
+## Resume
 
 Download a copy of my resume [here](resources/Resume_ConnieHilarides_April2024.pdf)
 
-# Contact
+## Contact
 
 - Email: [connie@connieh.com](mailto:connie@connieh.com)
 - [GitHub](https://github.com/connicpu)
